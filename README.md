@@ -2,6 +2,6 @@
 
 Create the Osaka Virus Meme on your Desktop
 
-Created in C#
+Created in bat
 
-Compiled using the method from this [Reddit Comment](https://www.reddit.com/r/Batch/comments/juxp47/comment/gckphoc/)
+Compiled using [Bat-To-Exe-Converter-64-Bit](https://github.com/l-urk/Bat-To-Exe-Converter-64-Bit)
